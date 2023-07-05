@@ -1,0 +1,2 @@
+https://github.com/harshatejas/pytorch_custom_object_detection
+https://github.com/sovit-123/fasterrcnn-pytorch-training-pipeline
